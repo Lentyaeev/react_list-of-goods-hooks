@@ -1,0 +1,2 @@
+html{display:flex;justify-content:center;align-items:center;height:100vh;background:linear-gradient(0deg,#22c1c3,#fdbb2d)}.Goods{list-style:inside}.Goods__item{transition:-webkit-transform .3s;transition:transform .3s;transition:transform .3s,-webkit-transform .3s}.Goods__item:hover{-webkit-transform:scale(1.1);transform:scale(1.1)}.panel{padding:30px;background-color:#fff}.button{margin:10px}
+/*# sourceMappingURL=main.5bc07be0.chunk.css.map */
